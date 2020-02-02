@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Welcome to my learning-journal.
 
-You can use the [editor on GitHub](https://github.com/sanaaDaire/sanaa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Firstly** 
+*I am Sana Daire*
+*I want to talk about my growth mindest*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Secondly**
+actually i faced a lot of different mindests and thoughts in my life there are agree with me at the same time there are confused me with their confues thoughts !
+That pushed me to be **patient** and help me to grow my mind , **SO!**
+**I Make A decision** that is listening for other and recpect them also be flixable with others to exchange alot of thoughts plus go to my suitable site such as improve my brain with good thoughts.
 
-### Markdown
+As Ralph Waldo Emerson said:
+>Dont be pushed by your problems , Be led by your dreams.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## How to keep myself in growth mindest 
+I have collect of people who keep on growth mindest and spend times with them to keep me up and exchange with them growth mindest
+*like*
+1. My Mother **she is the best and best**
+1.My teachers in college 
+1.Les Brown **Motivation Speaker**
 
-# Header 1
-## Header 2
-### Header 3
+![Growth-mindest](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ftribalscale%2Fgrowth-mindset-how-to-adopt-the-secret-to-start-up-success-ba3935ecb6ed&psig=AOvVaw3jU6yaRpoNXW9cHQe3LDnC&ust=1580728074246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj2n4zdsucCFQAAAAAdAAAAABAD)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanaaDaire/sanaa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

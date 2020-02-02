@@ -17,8 +17,8 @@ As Ralph Waldo Emerson said:
 I have collect of people who keep on growth mindest and spend times with them to keep me up and exchange with them growth mindest
 *like*
 1. My Mother **she is the best and best**
-1.My teachers in college 
-1.Les Brown **Motivation Speaker**
+1. My teachers in college 
+1. Les Brown **Motivation Speaker**
 
 ![Growth-mindest](https://miro.medium.com/max/500/1*aFtggN7wbeBIKCN5i3kTdw.png)
 

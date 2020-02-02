@@ -20,7 +20,7 @@ I have collect of people who keep on growth mindest and spend times with them to
 1.My teachers in college 
 1.Les Brown **Motivation Speaker**
 
-![Growth-mindest](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ftribalscale%2Fgrowth-mindset-how-to-adopt-the-secret-to-start-up-success-ba3935ecb6ed&psig=AOvVaw3jU6yaRpoNXW9cHQe3LDnC&ust=1580728074246000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj2n4zdsucCFQAAAAAdAAAAABAD)
+![Growth-mindest](https://miro.medium.com/max/500/1*aFtggN7wbeBIKCN5i3kTdw.png)
 
 
 

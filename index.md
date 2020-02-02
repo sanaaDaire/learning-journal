@@ -3,6 +3,7 @@
 **Firstly** 
 *I am Sana Daire*
 *I want to talk about my growth mindest*
+
 **Secondly**actually i faced a lot of different mindests and thoughts in my life there are agree with me at the same time there are confused me with their confues thoughts !
 That pushed me to be **patient** and help me to grow my mind , **SO!**
 **I Make A decision** that is listening for other and recpect them also be flixable with others to exchange alot of thoughts plus go to my suitable site such as improve my brain with good thoughts.

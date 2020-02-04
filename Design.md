@@ -9,6 +9,7 @@ The <style> element should use the type attribute to indicate that the styles ar
 1. RGB value.
 1. HEX code.
 1. Color name.
+
 **Add CSS to HTML :**
 1. inline 
 2. embedded
